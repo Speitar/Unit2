@@ -1,0 +1,45 @@
+body{
+  background-color: #7C72A0;  
+  font-family: Georgia, 'Times New Roman', Times, serif;
+} 
+
+h1,h2 {
+    color: antiquewhite;
+    text-align: center;
+}
+.email{
+    color: antiquewhite;
+}
+table {
+    background-color: rgba(0, 0, 0, 0.596);
+    border-collapse: collapse;
+    width: 80%;
+    margin: 100px auto;
+    box-shadow: 0 10px 100px rgba(103, 188, 248, 0.9);
+}
+td, th {
+    border: 3px solid rgba(46, 17, 187, 0.815);
+    text-align: center;
+    padding: 8px;
+    color: antiquewhite;
+} 
+
+
+.internet{
+    text-align: center;
+}
+.Structura{
+    margin: 10px;
+    border: 2px solid rgb(255, 255, 255);
+}
+.adrese{
+    text-align: center;
+    color: rgba(116, 235, 138, 0.844);
+}
+.Utilizarea{    
+        display: flex; 
+        justify-content: flex-start; 
+        gap: 10px; 
+        width: 5%;  
+           
+}
